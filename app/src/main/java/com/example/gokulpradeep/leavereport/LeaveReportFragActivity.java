@@ -1,8 +1,9 @@
 package com.example.gokulpradeep.leavereport;
 
-import android.app.Fragment;
+
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,7 +12,7 @@ import android.view.ViewGroup;
  * Created by Gokul pradeep on 30-03-2018.
  */
 
-public class LeaveReportFragActivity extends Fragment{
+public class LeaveReportFragActivity extends Fragment {
     public LeaveReportFragActivity() {
         super();
     }
